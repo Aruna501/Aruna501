@@ -6,3 +6,4 @@ function greeting(person: { name: string; age: number }): void {
 }
  
 greeting({ name: "Bob", age: 25 });
+
